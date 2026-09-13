@@ -1,6 +1,11 @@
 package com.buyorwait.app;
 
 import com.buyorwait.diagnostic.RecurrenceAmountComparison;
+import com.buyorwait.decision.AffordabilityService;
+import com.buyorwait.evaluation.SampleEvaluator;
+import com.buyorwait.output.DecisionCsvWriter;
+import java.io.IOException;
+import java.io.UncheckedIOException;
 import com.buyorwait.input.Dataset;
 import com.buyorwait.input.DatasetIndex;
 import com.buyorwait.input.DatasetLoader;
@@ -32,6 +37,10 @@ public final class Main {
         Dataset dataset = new DatasetLoader().load(datasetDirectory);
         new DatasetValidator().validate(dataset);
         DatasetIndex index = new DatasetIndex(dataset);
+        if (args.length >= 1 && "--run".equals(args[0])) {
+            runPipeline(datasetDirectory, dataset, index);
+            return;
+        }
         if (args.length >= 1 && "--compare-recurrence-amounts".equals(args[0])) {
             new RecurrenceAmountComparison(index).printSamples(dataset, System.out);
             return;
@@ -51,6 +60,8 @@ public final class Main {
     }
 
     private static Path resolveDatasetDirectory(String[] args) {
+        if (args.length == 1 && "--run".equals(args[0])) return findDefaultDataset();
+        if (args.length == 3 && "--run".equals(args[0]) && "--dataset".equals(args[1])) return checkedDataset(Path.of(args[2]));
         if (args.length == 1 && "--compare-recurrence-amounts".equals(args[0])) return findDefaultDataset();
         if (args.length == 3 && "--compare-recurrence-amounts".equals(args[0]) && "--dataset".equals(args[1])) {
             return checkedDataset(Path.of(args[2]));
@@ -59,7 +70,7 @@ public final class Main {
         if (args.length == 2 && ("--diagnose".equals(args[0]) || "--diagnose-details".equals(args[0]))) return findDefaultDataset();
         if (args.length != 0) throw new IllegalArgumentException(
                 "Usage: Main [--dataset <dataset-directory> | --diagnose <request-id> | --diagnose-details <request-id>"
-                        + " | --compare-recurrence-amounts [--dataset <dataset-directory>]]");
+                        + " | --compare-recurrence-amounts [--dataset <dataset-directory>] | --run [--dataset <dataset-directory>]]");
         return findDefaultDataset();
     }
 
@@ -71,6 +82,28 @@ public final class Main {
             current = current.getParent();
         }
         throw new IllegalArgumentException("Cannot find dataset directory; pass --dataset <dataset-directory>");
+    }
+
+    private static void runPipeline(Path datasetDirectory, Dataset dataset, DatasetIndex index) {
+        AffordabilityService service = new AffordabilityService(index);
+        var predictions = dataset.requests().stream().map(service::decide).toList();
+        var samples = dataset.sampleRequests().stream().map(sample -> service.decide(sample.request())).toList();
+        Path evaluation = datasetDirectory.toAbsolutePath().getParent().resolve("code/evaluation");
+        try {
+            new DecisionCsvWriter().write(datasetDirectory.resolve("output.csv"), predictions);
+            new SampleEvaluator().write(evaluation, dataset, samples);
+            Files.writeString(evaluation.resolve("usage_report.md"), "# Final full-dataset run usage\n\n"
+                    + "Evaluation requests: " + predictions.size() + ". Sample evaluation requests: " + samples.size() + ".\n\n"
+                    + "Providers/models: none (deterministic Java only). Model calls: 0. Input tokens: 0. Output tokens: 0. "
+                    + "Total tokens: 0. Average tokens per request: 0. Estimated total cost: USD 0. Estimated cost per request: USD 0.\n"
+                    + "\nThis covers inference for the run producing output.csv, not development-assistant usage.\n");
+        } catch (IOException exception) {
+            throw new UncheckedIOException("Cannot write pipeline artifacts", exception);
+        }
+        System.out.printf("Wrote %d evaluation predictions to %s; evaluated %d samples. Unresolved: evaluation=%d, samples=%d. Report: %s%n",
+                predictions.size(), datasetDirectory.resolve("output.csv"), samples.size(),
+                predictions.stream().filter(result -> !result.unresolvedEvidence().isEmpty()).count(),
+                samples.stream().filter(result -> !result.unresolvedEvidence().isEmpty()).count(), evaluation.resolve("sample_evaluation.md"));
     }
 
     private static void printDiagnostic(DatasetIndex index, String requestId) {

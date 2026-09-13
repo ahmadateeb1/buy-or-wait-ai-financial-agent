@@ -1,251 +1,251 @@
 request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
-request_26,,,,,,,
-request_27,,,,,,,
-request_28,,,,,,,
-request_29,,,,,,,
-request_30,,,,,,,
-request_31,,,,,,,
-request_32,,,,,,,
-request_33,,,,,,,
-request_34,,,,,,,
-request_35,,,,,,,
-request_36,,,,,,,
-request_37,,,,,,,
-request_38,,,,,,,
-request_39,,,,,,,
-request_40,,,,,,,
-request_41,,,,,,,
-request_42,,,,,,,
-request_43,,,,,,,
-request_44,,,,,,,
-request_45,,,,,,,
-request_46,,,,,,,
-request_47,,,,,,,
-request_48,,,,,,,
-request_49,,,,,,,
-request_50,,,,,,,
-request_51,,,,,,,
-request_52,,,,,,,
-request_53,,,,,,,
-request_54,,,,,,,
-request_55,,,,,,,
-request_56,,,,,,,
-request_57,,,,,,,
-request_58,,,,,,,
-request_59,,,,,,,
-request_60,,,,,,,
-request_61,,,,,,,
-request_62,,,,,,,
-request_63,,,,,,,
-request_64,,,,,,,
-request_65,,,,,,,
-request_66,,,,,,,
-request_67,,,,,,,
-request_68,,,,,,,
-request_69,,,,,,,
-request_70,,,,,,,
-request_71,,,,,,,
-request_72,,,,,,,
-request_73,,,,,,,
-request_74,,,,,,,
-request_75,,,,,,,
-request_76,,,,,,,
-request_77,,,,,,,
-request_78,,,,,,,
-request_79,,,,,,,
-request_80,,,,,,,
-request_81,,,,,,,
-request_82,,,,,,,
-request_83,,,,,,,
-request_84,,,,,,,
-request_85,,,,,,,
-request_86,,,,,,,
-request_87,,,,,,,
-request_88,,,,,,,
-request_89,,,,,,,
-request_90,,,,,,,
-request_91,,,,,,,
-request_92,,,,,,,
-request_93,,,,,,,
-request_94,,,,,,,
-request_95,,,,,,,
-request_96,,,,,,,
-request_97,,,,,,,
-request_98,,,,,,,
-request_99,,,,,,,
-request_100,,,,,,,
-request_101,,,,,,,
-request_102,,,,,,,
-request_103,,,,,,,
-request_104,,,,,,,
-request_105,,,,,,,
-request_106,,,,,,,
-request_107,,,,,,,
-request_108,,,,,,,
-request_109,,,,,,,
-request_110,,,,,,,
-request_111,,,,,,,
-request_112,,,,,,,
-request_113,,,,,,,
-request_114,,,,,,,
-request_115,,,,,,,
-request_116,,,,,,,
-request_117,,,,,,,
-request_118,,,,,,,
-request_119,,,,,,,
-request_120,,,,,,,
-request_121,,,,,,,
-request_122,,,,,,,
-request_123,,,,,,,
-request_124,,,,,,,
-request_125,,,,,,,
-request_126,,,,,,,
-request_127,,,,,,,
-request_128,,,,,,,
-request_129,,,,,,,
-request_130,,,,,,,
-request_131,,,,,,,
-request_132,,,,,,,
-request_133,,,,,,,
-request_134,,,,,,,
-request_135,,,,,,,
-request_136,,,,,,,
-request_137,,,,,,,
-request_138,,,,,,,
-request_139,,,,,,,
-request_140,,,,,,,
-request_141,,,,,,,
-request_142,,,,,,,
-request_143,,,,,,,
-request_144,,,,,,,
-request_145,,,,,,,
-request_146,,,,,,,
-request_147,,,,,,,
-request_148,,,,,,,
-request_149,,,,,,,
-request_150,,,,,,,
-request_151,,,,,,,
-request_152,,,,,,,
-request_153,,,,,,,
-request_154,,,,,,,
-request_155,,,,,,,
-request_156,,,,,,,
-request_157,,,,,,,
-request_158,,,,,,,
-request_159,,,,,,,
-request_160,,,,,,,
-request_161,,,,,,,
-request_162,,,,,,,
-request_163,,,,,,,
-request_164,,,,,,,
-request_165,,,,,,,
-request_166,,,,,,,
-request_167,,,,,,,
-request_168,,,,,,,
-request_169,,,,,,,
-request_170,,,,,,,
-request_171,,,,,,,
-request_172,,,,,,,
-request_173,,,,,,,
-request_174,,,,,,,
-request_175,,,,,,,
-request_176,,,,,,,
-request_177,,,,,,,
-request_178,,,,,,,
-request_179,,,,,,,
-request_180,,,,,,,
-request_181,,,,,,,
-request_182,,,,,,,
-request_183,,,,,,,
-request_184,,,,,,,
-request_185,,,,,,,
-request_186,,,,,,,
-request_187,,,,,,,
-request_188,,,,,,,
-request_189,,,,,,,
-request_190,,,,,,,
-request_191,,,,,,,
-request_192,,,,,,,
-request_193,,,,,,,
-request_194,,,,,,,
-request_195,,,,,,,
-request_196,,,,,,,
-request_197,,,,,,,
-request_198,,,,,,,
-request_199,,,,,,,
-request_200,,,,,,,
-request_201,,,,,,,
-request_202,,,,,,,
-request_203,,,,,,,
-request_204,,,,,,,
-request_205,,,,,,,
-request_206,,,,,,,
-request_207,,,,,,,
-request_208,,,,,,,
-request_209,,,,,,,
-request_210,,,,,,,
-request_211,,,,,,,
-request_212,,,,,,,
-request_213,,,,,,,
-request_214,,,,,,,
-request_215,,,,,,,
-request_216,,,,,,,
-request_217,,,,,,,
-request_218,,,,,,,
-request_219,,,,,,,
-request_220,,,,,,,
-request_221,,,,,,,
-request_222,,,,,,,
-request_223,,,,,,,
-request_224,,,,,,,
-request_225,,,,,,,
-request_226,,,,,,,
-request_227,,,,,,,
-request_228,,,,,,,
-request_229,,,,,,,
-request_230,,,,,,,
-request_231,,,,,,,
-request_232,,,,,,,
-request_233,,,,,,,
-request_234,,,,,,,
-request_235,,,,,,,
-request_236,,,,,,,
-request_237,,,,,,,
-request_238,,,,,,,
-request_239,,,,,,,
-request_240,,,,,,,
-request_241,,,,,,,
-request_242,,,,,,,
-request_243,,,,,,,
-request_244,,,,,,,
-request_245,,,,,,,
-request_246,,,,,,,
-request_247,,,,,,,
-request_248,,,,,,,
-request_249,,,,,,,
-request_250,,,,,,,
-request_251,,,,,,,
-request_252,,,,,,,
-request_253,,,,,,,
-request_254,,,,,,,
-request_255,,,,,,,
-request_256,,,,,,,
-request_257,,,,,,,
-request_258,,,,,,,
-request_259,,,,,,,
-request_260,,,,,,,
-request_261,,,,,,,
-request_262,,,,,,,
-request_263,,,,,,,
-request_264,,,,,,,
-request_265,,,,,,,
-request_266,,,,,,,
-request_267,,,,,,,
-request_268,,,,,,,
-request_269,,,,,,,
-request_270,,,,,,,
-request_271,,,,,,,
-request_272,,,,,,,
-request_273,,,,,,,
-request_274,,,,,,,
-request_275,,,,,,,
+request_26,15656000,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,"Use full_payment for IDR 15656000, completing on 2025-08-03. Projected minimum 39467037.28 on 2025-10-20 stays at or above 24768300. No spending changes required."
+request_27,6670,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,"Use full_payment for ZAR 6670, completing on 2026-07-05. Projected minimum 75659.41 on 2026-09-17 stays at or above 20500. No spending changes required."
+request_28,253.56,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-08-15 while keeping EUR 1100 throughout the 90-day forecast.
+request_29,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-11-23 while keeping ZAR 28300 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-01-19.
+request_30,775.2,affordable_with_plan,installments,2026-04-06:268.74|2026-05-06:268.74|2026-06-05:268.74,2026-04-06,none,"Use installments for USD 806.22, completing on 2026-06-05. Projected minimum 1275.66 on 2026-07-03 stays at or above 900. No spending changes required."
+request_31,1329957.11,affordable_later,not_recommended,none,2024-11-16,none,No eligible plan completes by 2024-11-15 while keeping IDR 16588900 throughout the 90-day forecast. A single full payment is financially safe on 2024-11-16; the deadline or permitted methods prevent recommending it.
+request_32,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-04-15 while keeping ZAR 35700 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-03-25.
+request_33,14726.71,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-15 while keeping INR 102100 throughout the 90-day forecast.
+request_34,129400,affordable_now,full_payment,2024-12-04:129400,2024-12-04,none,"Use full_payment for INR 129400, completing on 2024-12-04. Projected minimum 207516.13 on 2025-03-03 stays at or above 138500. No spending changes required."
+request_35,11187.81,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-01-15 while keeping INR 106400 throughout the 90-day forecast.
+request_36,325.58,affordable_later,not_recommended,none,2026-09-16,none,No eligible plan completes by 2026-09-15 while keeping USD 2400 throughout the 90-day forecast. A single full payment is financially safe on 2026-09-16; the deadline or permitted methods prevent recommending it.
+request_37,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-05-15 while keeping IDR 17056200 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-05-13.
+request_38,140.83,affordable_later,not_recommended,none,2025-10-16,none,No eligible plan completes by 2025-10-15 while keeping EUR 400 throughout the 90-day forecast. A single full payment is financially safe on 2025-10-16; the deadline or permitted methods prevent recommending it.
+request_39,28992.17,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-06-15 while keeping INR 213400 throughout the 90-day forecast.
+request_40,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-08-15 while keeping EUR 1500 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-07-24.
+request_41,5408805.84,affordable_later,not_recommended,none,2026-01-16,none,No eligible plan completes by 2026-01-15 while keeping IDR 25366600 throughout the 90-day forecast. A single full payment is financially safe on 2026-01-16; the deadline or permitted methods prevent recommending it.
+request_42,52100,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,"Use full_payment for INR 52100, completing on 2026-01-05. Projected minimum 138579.32 on 2026-01-15 stays at or above 113100. No spending changes required."
+request_43,7851388.5,affordable_later,not_recommended,none,2024-11-16,none,No eligible plan completes by 2024-11-15 while keeping IDR 21398000 throughout the 90-day forecast. A single full payment is financially safe on 2024-11-16; the deadline or permitted methods prevent recommending it.
+request_44,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-04-15 while keeping INR 82900 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-03-29.
+request_45,2731658.06,affordable_later,not_recommended,none,2026-09-16,none,No eligible plan completes by 2026-09-15 while keeping IDR 11149800 throughout the 90-day forecast. A single full payment is financially safe on 2026-09-16; the deadline or permitted methods prevent recommending it.
+request_46,30157.41,affordable_later,not_recommended,none,2025-01-16,none,No eligible plan completes by 2025-01-09 while keeping INR 84000 throughout the 90-day forecast. A single full payment is financially safe on 2025-01-16; the deadline or permitted methods prevent recommending it.
+request_47,38114000,affordable_now,full_payment,2025-05-05:38114000,2025-05-05,none,"Use full_payment for IDR 38114000, completing on 2025-05-05. Projected minimum 52934987.32 on 2025-07-16 stays at or above 30049000. No spending changes required."
+request_48,36820.5,affordable_later,not_recommended,none,2026-10-16,none,No eligible plan completes by 2026-08-24 while keeping INR 71300 throughout the 90-day forecast. A single full payment is financially safe on 2026-10-16; the deadline or permitted methods prevent recommending it.
+request_49,11369501.86,affordable_later,not_recommended,none,2024-05-16,none,No eligible plan completes by 2024-05-22 while keeping IDR 20275700 throughout the 90-day forecast. A single full payment is financially safe on 2024-05-16; the deadline or permitted methods prevent recommending it.
+request_50,43900,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,"Use full_payment for INR 43900, completing on 2025-08-06. Projected minimum 151636.04 on 2025-08-14 stays at or above 99700. No spending changes required."
+request_51,2191000,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,"Use full_payment for IDR 2191000, completing on 2026-01-03. Projected minimum 9631189.01 on 2026-03-22 stays at or above 7811000. No spending changes required."
+request_52,17829.36,affordable_later,wait,2024-06-16:28870,2024-06-16,none,"Use wait for INR 28870, completing on 2024-06-16. Projected minimum 49498.75 on 2024-07-10 stays at or above 41500. No spending changes required."
+request_53,394.01,affordable_later,not_recommended,none,2026-01-16,none,No eligible plan completes by 2026-01-20 while keeping USD 2100 throughout the 90-day forecast. A single full payment is financially safe on 2026-01-16; the deadline or permitted methods prevent recommending it.
+request_54,686.13,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-08-21 while keeping ZAR 37000 throughout the 90-day forecast.
+request_55,95496.9,affordable_later,not_recommended,none,2026-08-16,none,No eligible plan completes by 2026-08-22 while keeping INR 124300 throughout the 90-day forecast. A single full payment is financially safe on 2026-08-16; the deadline or permitted methods prevent recommending it.
+request_56,458.78,affordable_with_plan,partial_payment,2025-02-03:458.78|2025-02-16:422.78,2025-02-16,none,"Use partial_payment for USD 881.56, completing on 2025-02-16. Projected minimum 2100 on 2025-02-15 stays at or above 2100. No spending changes required."
+request_57,11909.19,affordable_later,not_recommended,none,2026-06-16,none,No eligible plan completes by 2026-06-15 while keeping ZAR 42700 throughout the 90-day forecast. A single full payment is financially safe on 2026-06-16; the deadline or permitted methods prevent recommending it.
+request_58,16226000,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,"Use full_payment for IDR 16226000, completing on 2024-12-07. Projected minimum 18459748.35 on 2024-12-15 stays at or above 14433900. No spending changes required."
+request_59,140600,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,2025-05-04,none,"Use installments for INR 146223.99, completing on 2025-07-02. Projected minimum 452198.77 on 2025-07-08 stays at or above 132600. No spending changes required."
+request_60,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-04 while keeping USD 400 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-03-09.
+request_61,25554.44,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,,stop:event_5683|reduce_to:event_5715:784.3,"Use installments for ZAR 30224.49, completing on 2024-05-18. Projected minimum 37445.63 on 2024-05-31 stays at or above 36700. Requires the listed permitted spending changes."
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,"Use full_payment for USD 404.23, completing on 2025-08-05. Projected minimum 2333.72 on 2025-10-22 stays at or above 1300. No spending changes required."
+request_63,30889.59,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-09-17 while keeping INR 153500 throughout the 90-day forecast.
+request_64,0,not_affordable,not_recommended,none,,none,No payment can be verified: unresolved financial evidence (unresolved_amount:event_6033).
+request_65,5304.94,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-11-25 while keeping ZAR 15500 throughout the 90-day forecast.
+request_66,22200,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,"Use full_payment for INR 22200, completing on 2026-04-03. Projected minimum 150975.77 on 2026-06-20 stays at or above 80700. No spending changes required."
+request_67,192.74,affordable_later,not_recommended,none,2024-11-16,none,No eligible plan completes by 2024-11-15 while keeping USD 1200 throughout the 90-day forecast. A single full payment is financially safe on 2024-11-16; the deadline or permitted methods prevent recommending it.
+request_68,1254.06,affordable_later,not_recommended,none,2025-04-16,none,No eligible plan completes by 2025-04-16 while keeping USD 1500 throughout the 90-day forecast. A single full payment is financially safe on 2025-04-16; the deadline or permitted methods prevent recommending it.
+request_69,394.468,affordable_later,not_recommended,none,2026-03-16,none,No eligible plan completes by 2026-01-14 while keeping EUR 700 throughout the 90-day forecast. A single full payment is financially safe on 2026-03-16; the deadline or permitted methods prevent recommending it.
+request_70,48080.83,affordable_later,not_recommended,none,2025-02-16,none,No eligible plan completes by 2025-02-15 while keeping INR 115000 throughout the 90-day forecast. A single full payment is financially safe on 2025-02-16; the deadline or permitted methods prevent recommending it.
+request_71,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-05-28 while keeping IDR 8884800 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-05-14.
+request_72,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-07-14 while keeping ZAR 12200 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-09-07.
+request_73,0,not_affordable,not_recommended,none,,none,No payment can be verified: unresolved financial evidence (unresolved_amount:event_6859).
+request_74,5010,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,"Use full_payment for ZAR 5010, completing on 2025-08-04. Projected minimum 36536.13 on 2025-10-21 stays at or above 21900. No spending changes required."
+request_75,5591.05,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-06-12 while keeping ZAR 39000 throughout the 90-day forecast.
+request_76,179.94,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-07-30 while keeping USD 1800 throughout the 90-day forecast.
+request_77,56888.64,affordable_later,not_recommended,none,2025-11-16,none,No eligible plan completes by 2025-11-14 while keeping INR 82200 throughout the 90-day forecast. A single full payment is financially safe on 2025-11-16; the deadline or permitted methods prevent recommending it.
+request_78,28614.57,affordable_later,not_recommended,none,2025-12-16,none,No eligible plan completes by 2025-10-14 while keeping INR 55200 throughout the 90-day forecast. A single full payment is financially safe on 2025-12-16; the deadline or permitted methods prevent recommending it.
+request_79,23.83,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-11-01 while keeping EUR 1000 throughout the 90-day forecast.
+request_80,85813.83,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-02-21 while keeping INR 121300 throughout the 90-day forecast.
+request_81,1716.014,affordable_later,not_recommended,none,2026-09-16,none,No eligible plan completes by 2026-07-14 while keeping USD 1600 throughout the 90-day forecast. A single full payment is financially safe on 2026-09-16; the deadline or permitted methods prevent recommending it.
+request_82,244.8,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-02-15 while keeping USD 1100 throughout the 90-day forecast.
+request_83,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-06-17 while keeping INR 37800 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-07-05.
+request_84,17087.43,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-06-15 while keeping INR 91300 throughout the 90-day forecast.
+request_85,126333.99,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-04-26 while keeping IDR 6396300 throughout the 90-day forecast.
+request_86,46300,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,"Use full_payment for INR 46300, completing on 2025-08-03. Projected minimum 91188.14 on 2025-08-14 stays at or above 84900. No spending changes required."
+request_87,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-15 while keeping INR 185900 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-02-14.
+request_88,10420.27,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-07-16,none,"Use installments for ZAR 27135.69, completing on 2024-08-15. Projected minimum 27175.04 on 2024-06-14 stays at or above 25800. No spending changes required."
+request_89,8697945.54,affordable_later,not_recommended,none,2026-01-16,none,No eligible plan completes by 2026-01-15 while keeping IDR 12534700 throughout the 90-day forecast. A single full payment is financially safe on 2026-01-16; the deadline or permitted methods prevent recommending it.
+request_90,2560,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,"Use full_payment for ZAR 2560, completing on 2026-07-06. Projected minimum 17323.69 on 2026-10-03 stays at or above 7600. No spending changes required."
+request_91,189.61,affordable_later,not_recommended,none,2024-11-16,none,No eligible plan completes by 2024-11-15 while keeping EUR 2100 throughout the 90-day forecast. A single full payment is financially safe on 2024-11-16; the deadline or permitted methods prevent recommending it.
+request_92,27802.07,affordable_later,not_recommended,none,2025-02-25,none,No eligible plan completes by 2025-02-14 while keeping ZAR 28100 throughout the 90-day forecast. A single full payment is financially safe on 2025-02-25; the deadline or permitted methods prevent recommending it.
+request_93,1729.2,affordable_now,full_payment,2026-04-07:1729.2,2026-04-07,none,"Use full_payment for USD 1729.2, completing on 2026-04-07. Projected minimum 1972.99 on 2026-04-12 stays at or above 1900. No spending changes required."
+request_94,572,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,"Use full_payment for EUR 572, completing on 2024-12-04. Projected minimum 962.76 on 2025-03-03 stays at or above 600. No spending changes required."
+request_95,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-07-14 while keeping INR 145500 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-05-20.
+request_96,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-12 while keeping INR 56500 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-03-10.
+request_97,1161.53,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-05-16,none,"Use installments for ZAR 24435.84, completing on 2024-05-20. Projected minimum 30861.53 on 2024-03-11 stays at or above 29700. No spending changes required."
+request_98,1732.23,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-10-15 while keeping ZAR 30000 throughout the 90-day forecast.
+request_99,15514.74,affordable_with_plan,full_payment,2026-07-04:18062,2026-07-16,stop:event_9188|reduce_to:event_9232:1065.9,"Use full_payment for ZAR 18062, completing on 2026-07-04. Projected minimum 49234.57 on 2026-07-12 stays at or above 49100. Requires the listed permitted spending changes."
+request_100,23915.92,affordable_later,not_recommended,none,2024-08-16,none,No eligible plan completes by 2024-08-16 while keeping ZAR 32500 throughout the 90-day forecast. A single full payment is financially safe on 2024-08-16; the deadline or permitted methods prevent recommending it.
+request_101,143500,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,"Use full_payment for INR 143500, completing on 2025-11-03. Projected minimum 188395.13 on 2025-11-14 stays at or above 187400. No spending changes required."
+request_102,1716,affordable_with_plan,installments,2026-04-05:594.88|2026-05-05:594.88|2026-06-04:594.88,2026-04-05,none,"Use installments for EUR 1784.64, completing on 2026-06-04. Projected minimum 1667.28 on 2026-07-03 stays at or above 900. No spending changes required."
+request_103,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-10-07 while keeping INR 125500 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-09-14.
+request_104,16316.06,affordable_later,wait,2025-02-25:17204,2025-02-25,none,"Use wait for ZAR 17204, completing on 2025-02-25. Projected minimum 28973.23 on 2025-03-23 stays at or above 24700. No spending changes required."
+request_105,42408.45,affordable_later,not_recommended,none,2026-07-16,none,No eligible plan completes by 2026-06-14 while keeping INR 73900 throughout the 90-day forecast. A single full payment is financially safe on 2026-07-16; the deadline or permitted methods prevent recommending it.
+request_106,435.53,affordable_later,not_recommended,none,2025-02-16,none,No eligible plan completes by 2025-02-15 while keeping EUR 1200 throughout the 90-day forecast. A single full payment is financially safe on 2025-02-16; the deadline or permitted methods prevent recommending it.
+request_107,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-07-04 while keeping EUR 1600 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-07-13.
+request_108,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-07-26 while keeping ZAR 24100 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-07-19.
+request_109,359.04,affordable_later,not_recommended,none,2024-05-16,none,No eligible plan completes by 2024-05-26 while keeping EUR 1700 throughout the 90-day forecast. A single full payment is financially safe on 2024-05-16; the deadline or permitted methods prevent recommending it.
+request_110,22352,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,2025-08-06,none,"Use installments for ZAR 23246.07, completing on 2025-10-01. Projected minimum 16355.47 on 2025-11-03 stays at or above 11200. No spending changes required."
+request_111,13667973.25,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-05-02 while keeping IDR 23022800 throughout the 90-day forecast.
+request_112,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-06-14 while keeping EUR 500 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-08-01.
+request_113,8658.54,affordable_later,not_recommended,none,2026-11-16,none,No eligible plan completes by 2026-10-19 while keeping INR 82300 throughout the 90-day forecast. A single full payment is financially safe on 2026-11-16; the deadline or permitted methods prevent recommending it.
+request_114,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-01-14 while keeping INR 113400 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-03-10.
+request_115,13816.98,affordable_later,not_recommended,none,2024-11-16,none,No eligible plan completes by 2024-11-15 while keeping INR 38800 throughout the 90-day forecast. A single full payment is financially safe on 2024-11-16; the deadline or permitted methods prevent recommending it.
+request_116,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-04-16 while keeping INR 80300 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-03-15.
+request_117,828.1,affordable_later,not_recommended,none,2026-07-16,none,No eligible plan completes by 2026-07-14 while keeping EUR 1000 throughout the 90-day forecast. A single full payment is financially safe on 2026-07-16; the deadline or permitted methods prevent recommending it.
+request_118,550.14,affordable_later,not_recommended,none,2025-02-16,none,No eligible plan completes by 2025-02-08 while keeping EUR 600 throughout the 90-day forecast. A single full payment is financially safe on 2025-02-16; the deadline or permitted methods prevent recommending it.
+request_119,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-07-17 while keeping INR 151200 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-07-17.
+request_120,7714000,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,"Use full_payment for IDR 7714000, completing on 2026-04-06. Projected minimum 20543750.3 on 2026-04-11 stays at or above 20050300. No spending changes required."
+request_121,595.08,affordable_with_plan,full_payment,2024-03-03:633.6,2024-03-16,stop:event_11163|reduce_to:event_11164:9.5|reduce_to:event_11231:19.5,"Use full_payment for USD 633.6, completing on 2024-03-03. Projected minimum 815.47 on 2024-03-15 stays at or above 800. Requires the listed permitted spending changes."
+request_122,20558000,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,"Use installments for IDR 21380319.99, completing on 2025-09-30. Projected minimum 21285194.51 on 2025-10-22 stays at or above 12588500. No spending changes required."
+request_123,381755.27,affordable_later,not_recommended,none,2026-04-06,none,No eligible plan completes by 2026-03-28 while keeping IDR 18091200 throughout the 90-day forecast. A single full payment is financially safe on 2026-04-06; the deadline or permitted methods prevent recommending it.
+request_124,1348.84,affordable_later,not_recommended,none,2024-08-16,none,No eligible plan completes by 2024-08-20 while keeping EUR 1600 throughout the 90-day forecast. A single full payment is financially safe on 2024-08-16; the deadline or permitted methods prevent recommending it.
+request_125,4805.17,affordable_later,not_recommended,none,2025-12-16,none,No eligible plan completes by 2025-11-14 while keeping ZAR 11300 throughout the 90-day forecast. A single full payment is financially safe on 2025-12-16; the deadline or permitted methods prevent recommending it.
+request_126,139544.59,affordable_later,not_recommended,none,2026-09-21,none,No eligible plan completes by 2026-07-17 while keeping INR 129700 throughout the 90-day forecast. A single full payment is financially safe on 2026-09-21; the deadline or permitted methods prevent recommending it.
+request_127,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-10-18 while keeping ZAR 41000 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-10-31.
+request_128,25131.38,affordable_with_plan,full_payment,2025-02-07:25168,2025-02-16,reduce_to:event_11812:1058.2,"Use full_payment for ZAR 25168, completing on 2025-02-07. Projected minimum 43794.3 on 2025-02-13 stays at or above 42600. Requires the listed permitted spending changes."
+request_129,92.64,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-06-18 while keeping USD 800 throughout the 90-day forecast.
+request_130,220.14,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-02-15 while keeping USD 1400 throughout the 90-day forecast.
+request_131,1053.41,affordable_later,not_recommended,none,2025-07-16,none,No eligible plan completes by 2025-07-08 while keeping USD 1100 throughout the 90-day forecast. A single full payment is financially safe on 2025-07-16; the deadline or permitted methods prevent recommending it.
+request_132,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-02-25 while keeping USD 1100 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-03-06.
+request_133,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-03-29 while keeping IDR 9986200 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-06-02.
+request_134,3610868.14,affordable_later,not_recommended,none,2025-10-16,none,No eligible plan completes by 2025-10-15 while keeping IDR 15902500 throughout the 90-day forecast. A single full payment is financially safe on 2025-10-16; the deadline or permitted methods prevent recommending it.
+request_135,249.26,affordable_later,not_recommended,none,2026-07-16,none,No eligible plan completes by 2026-07-14 while keeping USD 500 throughout the 90-day forecast. A single full payment is financially safe on 2026-07-16; the deadline or permitted methods prevent recommending it.
+request_136,468.92,affordable_later,not_recommended,none,2024-06-16,none,No eligible plan completes by 2024-06-14 while keeping USD 1100 throughout the 90-day forecast. A single full payment is financially safe on 2024-06-16; the deadline or permitted methods prevent recommending it.
+request_137,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-01-15 while keeping INR 71800 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-01-12.
+request_138,698.72,affordable_with_plan,partial_payment,2026-04-07:698.72|2026-04-16:558.22,2026-04-16,none,"Use partial_payment for EUR 1256.94, completing on 2026-04-16. Projected minimum 2300 on 2026-04-13 stays at or above 2300. No spending changes required."
+request_139,1239.26,affordable_later,not_recommended,none,2024-11-16,none,No eligible plan completes by 2024-11-17 while keeping USD 1500 throughout the 90-day forecast. A single full payment is financially safe on 2024-11-16; the deadline or permitted methods prevent recommending it.
+request_140,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-03-04 while keeping ZAR 21600 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-03-18.
+request_141,5747.58,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-02-12 while keeping INR 67300 throughout the 90-day forecast.
+request_142,1263.6,affordable_now,full_payment,2024-12-05:1263.6,2024-12-05,none,"Use full_payment for USD 1263.6, completing on 2024-12-05. Projected minimum 3033.44 on 2025-02-21 stays at or above 1700. No spending changes required."
+request_143,1336.91,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-07-15 while keeping ZAR 11300 throughout the 90-day forecast.
+request_144,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-07-26 while keeping USD 600 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-08-26.
+request_145,18362.37,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-05-26 while keeping INR 155400 throughout the 90-day forecast.
+request_146,8255.32,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-10-17 while keeping INR 108600 throughout the 90-day forecast.
+request_147,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-06-07 while keeping EUR 900 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-06-08.
+request_148,6255.87,affordable_later,not_recommended,none,2024-08-16,none,No eligible plan completes by 2024-08-18 while keeping ZAR 20000 throughout the 90-day forecast. A single full payment is financially safe on 2024-08-16; the deadline or permitted methods prevent recommending it.
+request_149,19268.32,affordable_later,not_recommended,none,2026-01-16,none,No eligible plan completes by 2026-01-19 while keeping ZAR 42100 throughout the 90-day forecast. A single full payment is financially safe on 2026-01-16; the deadline or permitted methods prevent recommending it.
+request_150,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-16 while keeping EUR 700 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-03-07.
+request_151,26646922.32,affordable_with_plan,full_payment,2024-09-03:26999000,2024-09-16,reduce_to:event_13923:633650,"Use full_payment for IDR 26999000, completing on 2024-09-03. Projected minimum 32096864.08 on 2024-09-14 stays at or above 31633600. Requires the listed permitted spending changes."
+request_152,10066.12,affordable_later,not_recommended,none,2025-04-16,none,No eligible plan completes by 2025-04-13 while keeping ZAR 11900 throughout the 90-day forecast. A single full payment is financially safe on 2025-04-16; the deadline or permitted methods prevent recommending it.
+request_153,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-09-24 while keeping USD 1400 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-07-14.
+request_154,1625.8,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,"Use installments for EUR 1690.83, completing on 2025-02-04. Projected minimum 2132.29 on 2025-02-13 stays at or above 1300. No spending changes required."
+request_155,81478.19,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-05-20 while keeping INR 56300 throughout the 90-day forecast.
+request_156,5423.75,affordable_later,not_recommended,none,2026-06-16,none,No eligible plan completes by 2026-06-15 while keeping ZAR 26900 throughout the 90-day forecast. A single full payment is financially safe on 2026-06-16; the deadline or permitted methods prevent recommending it.
+request_157,4100219.28,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-05-15 while keeping IDR 15714100 throughout the 90-day forecast.
+request_158,242600,affordable_with_plan,installments,2025-08-07:84101.33|2025-09-04:84101.33|2025-10-02:84101.33,2025-08-07,none,"Use installments for INR 252303.99, completing on 2025-10-02. Projected minimum 229136.24 on 2025-11-03 stays at or above 131400. No spending changes required."
+request_159,2707.58,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-20 while keeping ZAR 8700 throughout the 90-day forecast.
+request_160,550.49,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-07-16,none,"Use installments for EUR 1296.15, completing on 2024-08-14. Projected minimum 1262.27 on 2024-07-14 stays at or above 1200. No spending changes required."
+request_161,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-01-15 while keeping IDR 23010400 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-12-27.
+request_162,451037.3,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-08-26 while keeping IDR 24161100 throughout the 90-day forecast.
+request_163,6767308.21,affordable_later,not_recommended,none,2024-11-16,none,No eligible plan completes by 2024-11-15 while keeping IDR 26728700 throughout the 90-day forecast. A single full payment is financially safe on 2024-11-16; the deadline or permitted methods prevent recommending it.
+request_164,22942011.72,affordable_with_plan,installments,2025-02-11:9366240|2025-03-11:9366240|2025-04-08:9366240,2025-02-25,none,"Use installments for IDR 28098720, completing on 2025-04-08. Projected minimum 43126271.72 on 2025-02-23 stays at or above 29550500. No spending changes required."
+request_165,51515.9,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-04-21 while keeping INR 95000 throughout the 90-day forecast.
+request_166,2907.6,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,"Use installments for USD 3023.91, completing on 2025-02-03. Projected minimum 2870.09 on 2025-02-19 stays at or above 1700. No spending changes required."
+request_167,43802,affordable_now,full_payment,2025-05-05:43802,2025-05-05,none,"Use full_payment for ZAR 43802, completing on 2025-05-05. Projected minimum 34073 on 2025-05-19 stays at or above 31200. No spending changes required."
+request_168,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-16 while keeping INR 114400 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-03-06.
+request_169,41976,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,"Use full_payment for ZAR 41976, completing on 2024-03-04. Projected minimum 21452.41 on 2024-04-15 stays at or above 18700. No spending changes required."
+request_170,28333292.36,affordable_later,not_recommended,none,2025-10-16,none,No eligible plan completes by 2025-10-04 while keeping IDR 24715800 throughout the 90-day forecast. A single full payment is financially safe on 2025-10-16; the deadline or permitted methods prevent recommending it.
+request_171,8.67,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-09-10 while keeping EUR 500 throughout the 90-day forecast.
+request_172,8116.27,affordable_later,not_recommended,none,2024-08-16,none,No eligible plan completes by 2024-07-15 while keeping ZAR 27200 throughout the 90-day forecast. A single full payment is financially safe on 2024-08-16; the deadline or permitted methods prevent recommending it.
+request_173,50300.69,affordable_with_plan,installments,2025-11-21:39173.33|2025-12-19:39173.33|2026-01-16:39173.33,,reduce_to:event_15864:1272|reduce_to:event_15946:2105,"Use installments for INR 117519.99, completing on 2026-01-16. Projected minimum 89709.69 on 2026-01-15 stays at or above 79100. Requires the listed permitted spending changes."
+request_174,1146.2,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,2026-04-04,none,"Use installments for EUR 1192.05, completing on 2026-06-03. Projected minimum 2544.86 on 2026-06-13 stays at or above 700. No spending changes required."
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.3,2024-09-06,none,"Use full_payment for EUR 2346.3, completing on 2024-09-06. Projected minimum 1805.5 on 2024-09-15 stays at or above 1700. No spending changes required."
+request_176,261.09,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-02-27 while keeping EUR 600 throughout the 90-day forecast.
+request_177,182.5,affordable_with_plan,full_payment,2026-01-05:1017.6,,stop:event_16234|reduce_to:event_16236:34.4|reduce_to:event_16317:32,"Use full_payment for USD 1017.6, completing on 2026-01-05. Projected minimum 1305.49 on 2026-03-15 stays at or above 1300. Requires the listed permitted spending changes."
+request_178,2938.1,affordable_with_plan,installments,2024-12-07:1018.54|2025-01-07:1018.54|2025-02-07:1018.54,2024-12-07,none,"Use installments for EUR 3055.62, completing on 2025-02-07. Projected minimum 3058.12 on 2025-03-03 stays at or above 1400. No spending changes required."
+request_179,3532233.82,affordable_later,not_recommended,none,2025-07-16,none,No eligible plan completes by 2025-07-15 while keeping IDR 41430800 throughout the 90-day forecast. A single full payment is financially safe on 2025-07-16; the deadline or permitted methods prevent recommending it.
+request_180,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-09-02 while keeping INR 37300 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-10-01.
+request_181,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-04-07 while keeping USD 2000 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-04-13.
+request_182,65714,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,"Use full_payment for ZAR 65714, completing on 2025-08-05. Projected minimum 39271.53 on 2025-08-15 stays at or above 31100. No spending changes required."
+request_183,22217444.4,affordable_later,not_recommended,none,2026-06-16,none,No eligible plan completes by 2026-06-18 while keeping IDR 11878300 throughout the 90-day forecast. A single full payment is financially safe on 2026-06-16; the deadline or permitted methods prevent recommending it.
+request_184,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-07-30 while keeping INR 110800 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-07-13.
+request_185,160.21,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-01-15 while keeping EUR 1300 throughout the 90-day forecast.
+request_186,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-15 while keeping ZAR 22000 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-03-08.
+request_187,36475.51,affordable_later,not_recommended,none,2024-11-16,none,No eligible plan completes by 2024-11-15 while keeping INR 128300 throughout the 90-day forecast. A single full payment is financially safe on 2024-11-16; the deadline or permitted methods prevent recommending it.
+request_188,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-03-04 while keeping EUR 900 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-03-13.
+request_189,488.4,affordable_now,full_payment,2026-07-04:488.4,2026-07-04,none,"Use full_payment for EUR 488.4, completing on 2026-07-04. Projected minimum 451.7 on 2026-07-11 stays at or above 400. No spending changes required."
+request_190,392.14,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-02-15 while keeping EUR 1600 throughout the 90-day forecast.
+request_191,664.4,affordable_now,full_payment,2025-05-03:664.4,2025-05-03,none,"Use full_payment for EUR 664.4, completing on 2025-05-03. Projected minimum 574.01 on 2025-05-14 stays at or above 500. No spending changes required."
+request_192,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-05-11 while keeping USD 1000 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-06-06.
+request_193,0,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,,stop:event_17767|stop:event_17768|reduce_to:event_17837:34.5,"Use installments for EUR 1260.69, completing on 2024-05-22. Projected minimum 1070.63 on 2024-03-14 stays at or above 1000. Requires the listed permitted spending changes."
+request_194,28130.18,affordable_later,wait,2025-10-16:132800,2025-10-16,none,"Use wait for INR 132800, completing on 2025-10-16. Projected minimum 141730.18 on 2025-08-17 stays at or above 113600. No spending changes required."
+request_195,225.64,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-11 while keeping EUR 700 throughout the 90-day forecast.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.3,2024-06-03,none,"Use full_payment for EUR 762.3, completing on 2024-06-03. Projected minimum 632.66 on 2024-06-15 stays at or above 500. No spending changes required."
+request_197,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-01-21 while keeping IDR 26245900 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-01-26.
+request_198,185800,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,"Use full_payment for INR 185800, completing on 2026-07-07. Projected minimum 146604.37 on 2026-07-15 stays at or above 124300. No spending changes required."
+request_199,23674000,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,"Use installments for IDR 24620960.01, completing on 2024-11-08. Projected minimum 32675271.03 on 2024-11-21 stays at or above 25359500. No spending changes required."
+request_200,21717000,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,"Use full_payment for IDR 21717000, completing on 2025-02-06. Projected minimum 23713927.86 on 2025-02-13 stays at or above 20114600. No spending changes required."
+request_201,23997000,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,"Use full_payment for IDR 23997000, completing on 2026-04-03. Projected minimum 20322474.48 on 2026-06-25 stays at or above 17304500. No spending changes required."
+request_202,123900,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,"Use full_payment for INR 123900, completing on 2024-12-05. Projected minimum 161905.75 on 2024-12-14 stays at or above 147800. No spending changes required."
+request_203,1442.1,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-05-07,none,"Use installments for EUR 1499.79, completing on 2025-07-05. Projected minimum 6031.79 on 2025-07-09 stays at or above 1400. No spending changes required."
+request_204,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-01-31 while keeping EUR 1300 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-03-01.
+request_205,10621000,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,"Use full_payment for IDR 10621000, completing on 2024-03-06. Projected minimum 14740827.6 on 2024-04-15 stays at or above 13994300. No spending changes required."
+request_206,1404.7,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,2025-08-03,none,"Use installments for EUR 1460.88, completing on 2025-09-28. Projected minimum 1866.88 on 2025-10-20 stays at or above 900. No spending changes required."
+request_207,3800.94,affordable_with_plan,wait,2026-07-16:11830,2026-08-16,stop:event_19033,"Use wait for ZAR 11830, completing on 2026-07-16. Projected minimum 14241.46 on 2026-08-12 stays at or above 13600. Requires the listed permitted spending changes."
+request_208,2652355.92,affordable_later,wait,2024-06-16:4413000,2024-06-16,none,"Use wait for IDR 4413000, completing on 2024-06-16. Projected minimum 10660300.08 on 2024-07-11 stays at or above 10470700. No spending changes required."
+request_209,1094.82,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-11-25 while keeping ZAR 18400 throughout the 90-day forecast.
+request_210,768.82,affordable_with_plan,partial_payment,2026-04-06:768.82|2026-04-16:591.2,2026-04-16,none,"Use partial_payment for USD 1360.02, completing on 2026-04-16. Projected minimum 2000 on 2026-04-13 stays at or above 2000. No spending changes required."
+request_211,136.92,affordable_later,not_recommended,none,2024-11-16,none,No eligible plan completes by 2024-11-15 while keeping EUR 1500 throughout the 90-day forecast. A single full payment is financially safe on 2024-11-16; the deadline or permitted methods prevent recommending it.
+request_212,686067.08,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-02-28 while keeping IDR 29579800 throughout the 90-day forecast.
+request_213,1634.57,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-22 while keeping USD 2100 throughout the 90-day forecast.
+request_214,18859.43,affordable_with_plan,installments,2024-12-04:36270|2025-01-01:36270,2025-02-16,stop:event_19670|reduce_to:event_19671:4220|reduce_to:event_19751:4395,"Use installments for INR 72540, completing on 2025-01-01. Projected minimum 183937.99 on 2024-12-15 stays at or above 174900. Requires the listed permitted spending changes."
+request_215,29986,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,"Use installments for ZAR 31185.45, completing on 2025-07-04. Projected minimum 56121 on 2025-07-09 stays at or above 15700. No spending changes required."
+request_216,294.72,affordable_later,not_recommended,none,2026-09-16,none,No eligible plan completes by 2026-09-15 while keeping USD 1800 throughout the 90-day forecast. A single full payment is financially safe on 2026-09-16; the deadline or permitted methods prevent recommending it.
+request_217,16764.75,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,,stop:event_19977|reduce_to:event_19979:561.44|reduce_to:event_20045:663.3,"Use installments for ZAR 38667.21, completing on 2024-05-20. Projected minimum 29130.25 on 2024-05-13 stays at or above 26800. Requires the listed permitted spending changes."
+request_218,22333842.29,affordable_later,not_recommended,none,2025-09-16,none,No eligible plan completes by 2025-10-06 while keeping IDR 34477200 throughout the 90-day forecast. A single full payment is financially safe on 2025-09-16; the deadline or permitted methods prevent recommending it.
+request_219,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-06-13 while keeping EUR 1100 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-06-08.
+request_220,31.31,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-07-03 while keeping EUR 1100 throughout the 90-day forecast.
+request_221,109800,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,"Use full_payment for INR 109800, completing on 2025-11-03. Projected minimum 93585.86 on 2025-11-15 stays at or above 81500. No spending changes required."
+request_222,34078,affordable_now,full_payment,2026-01-05:34078,2026-01-05,none,"Use full_payment for ZAR 34078, completing on 2026-01-05. Projected minimum 47279.8 on 2026-04-03 stays at or above 27300. No spending changes required."
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.7,2024-09-07,none,"Use full_payment for EUR 898.7, completing on 2024-09-07. Projected minimum 980.32 on 2024-09-14 stays at or above 800. No spending changes required."
+request_224,7426624.64,affordable_with_plan,installments,2025-02-04:5370040|2025-03-04:5370040,2025-04-16,stop:event_20546|stop:event_20547|reduce_to:event_20613:501600,"Use installments for IDR 10740080, completing on 2025-03-04. Projected minimum 23971442.42 on 2025-03-15 stays at or above 22187600. Requires the listed permitted spending changes."
+request_225,8085506.28,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-09-21 while keeping IDR 17670700 throughout the 90-day forecast.
+request_226,140242.43,affordable_with_plan,full_payment,2024-12-03:157000,2025-02-16,reduce_to:event_20752:3700|stop:event_20753|reduce_to:event_20754:3552,"Use full_payment for INR 157000, completing on 2024-12-03. Projected minimum 221379.27 on 2025-01-14 stays at or above 209400. Requires the listed permitted spending changes."
+request_227,5767.24,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-06-20 while keeping INR 62900 throughout the 90-day forecast.
+request_228,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-04-30 while keeping IDR 26191200 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-05-23.
+request_229,391.57,affordable_later,not_recommended,none,2024-05-16,none,No eligible plan completes by 2024-05-23 while keeping EUR 1000 throughout the 90-day forecast. A single full payment is financially safe on 2024-05-16; the deadline or permitted methods prevent recommending it.
+request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.6,2025-08-06,none,"Use full_payment for EUR 3537.6, completing on 2025-08-06. Projected minimum 3898.27 on 2025-08-14 stays at or above 2000. No spending changes required."
+request_231,22329.93,affordable_with_plan,installments,2026-01-06:12378.08|2026-02-05:12378.08|2026-03-07:12378.08,2026-03-16,stop:event_21223|stop:event_21224|reduce_to:event_21305:845.9,"Use installments for ZAR 37134.24, completing on 2026-03-07. Projected minimum 25198.09 on 2026-03-15 stays at or above 24300. Requires the listed permitted spending changes."
+request_232,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-08-15 while keeping EUR 2400 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-07-22.
+request_233,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-12-17 while keeping IDR 10365700 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-12-31.
+request_234,153.61,affordable_later,not_recommended,none,2026-09-16,none,No eligible plan completes by 2026-09-15 while keeping EUR 700 throughout the 90-day forecast. A single full payment is financially safe on 2026-09-16; the deadline or permitted methods prevent recommending it.
+request_235,967.2,affordable_now,full_payment,2024-09-06:967.2,2024-09-06,none,"Use full_payment for USD 967.2, completing on 2024-09-06. Projected minimum 780.1 on 2024-09-14 stays at or above 700. No spending changes required."
+request_236,3971576.77,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-02-23 while keeping IDR 16768600 throughout the 90-day forecast.
+request_237,15847917.77,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-05-20 while keeping IDR 22431500 throughout the 90-day forecast.
+request_238,663.6,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,2024-12-07,none,"Use installments for USD 690.15, completing on 2025-02-07. Projected minimum 1118.17 on 2025-02-15 stays at or above 700. No spending changes required."
+request_239,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-05-24 while keeping USD 600 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-07-07.
+request_240,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-20 while keeping INR 52800 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-02-23.
+request_241,20228793.18,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,,stop:event_22154|reduce_to:event_22186:501600,"Use installments for IDR 21894080.01, completing on 2024-05-18. Projected minimum 21450178.05 on 2024-05-31 stays at or above 19252000. Requires the listed permitted spending changes."
+request_242,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-08-25 while keeping EUR 600 throughout the 90-day forecast. The baseline first falls below the minimum on 2025-08-14.
+request_243,17468,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,"Use full_payment for ZAR 17468, completing on 2026-07-07. Projected minimum 21653.74 on 2026-07-15 stays at or above 19900. No spending changes required."
+request_244,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-07-16 while keeping ZAR 45900 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-08-19.
+request_245,14789.21,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-01-15 while keeping INR 94600 throughout the 90-day forecast.
+request_246,61704.53,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,,reduce_to:event_22613:609.4|reduce_to:event_22614:926.64,"Use installments for ZAR 66649.44, completing on 2026-06-02. Projected minimum 41114.21 on 2026-06-26 stays at or above 39300. Requires the listed permitted spending changes."
+request_247,1023.31,affordable_later,wait,2024-09-16:1059.3,2024-09-16,none,"Use wait for EUR 1059.3, completing on 2024-09-16. Projected minimum 1506.82 on 2024-10-15 stays at or above 1300. No spending changes required."
+request_248,836.86,affordable_with_plan,partial_payment,2025-02-07:836.86|2025-04-25:1128.74,2025-04-25,none,"Use partial_payment for USD 1965.6, completing on 2025-04-25. Projected minimum 1300 on 2025-02-18 stays at or above 1300. No spending changes required."
+request_249,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-03-15 while keeping USD 600 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-03-08.
+request_250,14486.06,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-01-18 while keeping ZAR 35300 throughout the 90-day forecast.
+request_251,1513.6,not_affordable,not_recommended,none,2025-05-03,none,No eligible plan completes by 2025-06-06 while keeping EUR 1300 throughout the 90-day forecast. A single full payment is financially safe on 2025-05-03; the deadline or permitted methods prevent recommending it.
+request_252,3317183.31,affordable_later,not_recommended,none,2026-09-16,none,No eligible plan completes by 2026-09-15 while keeping IDR 15152200 throughout the 90-day forecast. A single full payment is financially safe on 2026-09-16; the deadline or permitted methods prevent recommending it.
+request_253,1302.67,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-06-01 while keeping EUR 2300 throughout the 90-day forecast.
+request_254,461.49,affordable_later,not_recommended,none,2025-10-16,none,No eligible plan completes by 2025-10-15 while keeping USD 2500 throughout the 90-day forecast. A single full payment is financially safe on 2025-10-16; the deadline or permitted methods prevent recommending it.
+request_255,3345000,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,"Use full_payment for IDR 3345000, completing on 2026-04-06. Projected minimum 32246985.53 on 2026-04-14 stays at or above 9813900. No spending changes required."
+request_256,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-08-19 while keeping INR 168600 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-08-10.
+request_257,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-01-15 while keeping USD 1600 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-01-13.
+request_258,883.58,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-01-22 while keeping USD 500 throughout the 90-day forecast.
+request_259,201.95,affordable_later,not_recommended,none,2024-11-16,none,No eligible plan completes by 2024-11-15 while keeping EUR 600 throughout the 90-day forecast. A single full payment is financially safe on 2024-11-16; the deadline or permitted methods prevent recommending it.
+request_260,5271661.2,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-04-18 while keeping IDR 20727700 throughout the 90-day forecast.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.4,2026-07-03,none,"Use full_payment for EUR 1830.4, completing on 2026-07-03. Projected minimum 1677 on 2026-07-10 stays at or above 1500. No spending changes required."
+request_262,9236000,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,"Use full_payment for IDR 9236000, completing on 2024-12-05. Projected minimum 55784623.39 on 2024-12-13 stays at or above 31018500. No spending changes required."
+request_263,3769.81,not_affordable,not_recommended,none,,none,No eligible plan completes by 2025-06-15 while keeping ZAR 24100 throughout the 90-day forecast.
+request_264,21982.97,affordable_later,not_recommended,none,2026-06-16,none,No eligible plan completes by 2026-06-15 while keeping INR 59500 throughout the 90-day forecast. A single full payment is financially safe on 2026-06-16; the deadline or permitted methods prevent recommending it.
+request_265,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2024-03-21 while keeping INR 189700 throughout the 90-day forecast. The baseline first falls below the minimum on 2024-06-02.
+request_266,739.38,affordable_later,not_recommended,none,2025-10-16,none,No eligible plan completes by 2025-10-03 while keeping EUR 900 throughout the 90-day forecast. A single full payment is financially safe on 2025-10-16; the deadline or permitted methods prevent recommending it.
+request_267,1483.6,affordable_later,not_recommended,none,2026-03-16,none,No eligible plan completes by 2026-03-17 while keeping EUR 1500 throughout the 90-day forecast. A single full payment is financially safe on 2026-03-16; the deadline or permitted methods prevent recommending it.
+request_268,1014.44,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-07-16,stop:event_24680|reduce_to:event_24713:39.5,"Use installments for EUR 2523.66, completing on 2024-08-15. Projected minimum 1512.3 on 2024-07-15 stays at or above 1400. Requires the listed permitted spending changes."
+request_269,0,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-01-02 while keeping ZAR 23100 throughout the 90-day forecast. The baseline first falls below the minimum on 2026-01-02.
+request_270,39.59,not_affordable,not_recommended,none,,none,No eligible plan completes by 2026-08-30 while keeping USD 1400 throughout the 90-day forecast.
+request_271,9786.94,affordable_later,not_recommended,none,2024-11-16,none,No eligible plan completes by 2024-11-15 while keeping INR 58200 throughout the 90-day forecast. A single full payment is financially safe on 2024-11-16; the deadline or permitted methods prevent recommending it.
+request_272,5142001.12,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,2025-03-16,none,"Use installments for IDR 14128400.01, completing on 2025-04-09. Projected minimum 7941134.45 on 2025-02-13 stays at or above 7508600. No spending changes required."
+request_273,9179578.19,affordable_with_plan,partial_payment,2026-04-07:9179578.19|2026-04-16:6681421.81,2026-04-16,none,"Use partial_payment for IDR 15861000, completing on 2026-04-16. Projected minimum 18774600 on 2026-04-12 stays at or above 18774600. No spending changes required."
+request_274,1924.01,affordable_later,not_recommended,none,2025-02-16,none,No eligible plan completes by 2025-02-11 while keeping EUR 1800 throughout the 90-day forecast. A single full payment is financially safe on 2025-02-16; the deadline or permitted methods prevent recommending it.
+request_275,15497707.2,affordable_later,wait,2025-05-16:15884000,2025-05-16,none,"Use wait for IDR 15884000, completing on 2025-05-16. Projected minimum 13822825.34 on 2025-06-15 stays at or above 12760100. No spending changes required."
