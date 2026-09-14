@@ -7,6 +7,7 @@ import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.header;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 class AnalysisControllerTest {
@@ -39,9 +40,11 @@ class AnalysisControllerTest {
                 """;
 
         mockMvc.perform(post("/api/analysis")
+                        .header("Origin", "http://localhost:5173")
                         .contentType(MediaType.APPLICATION_JSON)
                         .content(requestBody))
                 .andExpect(status().isOk())
+                .andExpect(header().string("Access-Control-Allow-Origin", "http://localhost:5173"))
                 .andExpect(jsonPath("$.status").value("READY_FOR_ANALYSIS"))
                 .andExpect(jsonPath("$.product").value("Sony WH-1000XM6"));
     }
