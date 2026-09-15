@@ -717,12 +717,23 @@ export function App() {
             <div className="feedback-area" aria-live="polite">
               {submitError && <div className="feedback error-feedback" role="alert">{submitError}</div>}
               {response && (
-                <div className="feedback success-feedback" role="status">
-                  <span className="success-icon" aria-hidden="true">✓</span>
-                  <span>
-                    <strong>{displayLabel(response.status)}</strong>
-                    <small>{response.product} is ready for analysis.</small>
-                  </span>
+                <div
+                  className={`feedback analysis-result verdict-${response.verdict.toLowerCase()}`}
+                  role="status"
+                >
+                  <div className="result-heading">
+                    <strong>{response.verdict}</strong>
+                    <span>{response.confidence}% confidence</span>
+                  </div>
+                  <p>{response.summary}</p>
+                  <div className="result-reasons">
+                    <span>Why</span>
+                    <ul>
+                      {response.reasons.map((reason) => (
+                        <li key={reason}>{reason}</li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
               )}
             </div>
